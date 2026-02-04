@@ -1,0 +1,19 @@
+# Environnement virtuel
+.venv/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Variables d'environnement
+.env
+
+# OS
+.DS_Store
